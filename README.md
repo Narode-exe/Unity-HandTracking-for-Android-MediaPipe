@@ -11,4 +11,4 @@ A sub-project for implementing hand tracking in mobile phones (Android) for AR/V
 3. By this step your hand must be tracked !
 ### GIFs and Video of working:
 ![4u6895](https://user-images.githubusercontent.com/77329786/104851813-38650400-591d-11eb-83bf-864648e2484c.gif)
-[Link to thw video of demo of Hand Tracking on Mobile Phones ]: https://drive.google.com/file/d/1e5YcR_07-xnyi5psI3EMi9HRIhfw6Iv1/view?usp=sharing
+[Link to thw video of demo of Hand Tracking on Mobile Phones ] (https://drive.google.com/file/d/1e5YcR_07-xnyi5psI3EMi9HRIhfw6Iv1/view?usp=sharing)
